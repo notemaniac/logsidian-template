@@ -1,3 +1,6 @@
+/* Do:
+ * @import url("https://cdn.jsdelivr.net/gh/somidad/logsidian-template/logseq/distinct-nav-header.css")
+ */
 .left-sidebar-inner .nav-content-item .header {
   background-color: var(--ls-tertiary-background-color);
 }
