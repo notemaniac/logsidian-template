@@ -1,0 +1,11 @@
+.page-ref {
+  color: var(--logsidian-link-highlight);
+}
+
+.block-ref {
+  border-bottom-color: var(--logsidian-link-highlight);
+}
+
+a.tag {
+  color: var(--logsidian-link-highlight);
+}
