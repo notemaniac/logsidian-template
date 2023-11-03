@@ -1,3 +1,8 @@
+/* Do:
+ * --logsidian-link-highlight: #E0D772;
+ * @import url("https://cdn.jsdelivr.net/gh/somidad/logsidian-template/logseq/distinct-nav-header.css");
+ */
+
 .page-ref {
   color: var(--logsidian-link-highlight);
 }
