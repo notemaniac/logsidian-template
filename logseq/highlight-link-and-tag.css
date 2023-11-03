@@ -1,5 +1,7 @@
 /* Do:
- * --logsidian-link-highlight: #E0D772;
+ * :root {
+ *   --logsidian-link-highlight: #E0D772;
+ * }
  * @import url("https://cdn.jsdelivr.net/gh/somidad/logsidian-template/logseq/highlight-link-and-tag.css");
  */
 
