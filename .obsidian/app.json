@@ -1,0 +1,11 @@
+.{
+  "attachmentFolderPath": "./assets",
+  "userIgnoreFilters": [
+    "logseq/"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "useTab": true,
+  "tabSize": 4
+}
