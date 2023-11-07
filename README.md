@@ -18,3 +18,6 @@ Download zip file from one of the followings
  :journal/file-name-format "yyyy-MM-dd"
 }
 ```
+## Obsidian
+
+TBU
