@@ -20,4 +20,25 @@ Download zip file from one of the followings
 ```
 ## Obsidian
 
-TBU
+`app.json`:
+
+```json
+{
+  "attachmentFolderPath": "./assets",
+  "userIgnoreFilters": [
+    "logseq/"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "useTab": true
+}
+```
+
+`daily-notes.json`:
+
+```json
+{
+  "folder": "journals"
+}
+```
